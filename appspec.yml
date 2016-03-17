@@ -1,7 +1,7 @@
 version: 0.0
 os: windows
 files:
-  - source: \index.html
+  - source: \app_offline.htm
     destination: d:\inetpub\wwwroot
 hooks:
   BeforeInstall:
